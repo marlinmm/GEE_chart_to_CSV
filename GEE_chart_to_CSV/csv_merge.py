@@ -1,7 +1,6 @@
 import os
 import glob
 import pandas as pd
-from os.path import basename
 
 
 def main():
